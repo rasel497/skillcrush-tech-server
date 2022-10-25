@@ -12,6 +12,13 @@ app.get('/', (req, res)=>{
     res.send('skillcrush technology is running');
 })
 
+app.get('/courses/:id', (req, res)=>{
+    const id = req.params.id;
+    const course = courses.find(cours => cours.id == id);
+    // console.log(course);
+    res.send(course);
+})
+
 app.get('/courses', (req, res)=>{
     res.send(courses);
 })

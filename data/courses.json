@@ -3,36 +3,42 @@
         "id": 1,
         "title": "JavaScript with React JS",
         "price": "5500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer."
+        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
+        "image": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=740&t=st=1666690353~exp=1666690953~hmac=00415773f20e412f8710224aab198466318f62f7e505d67dfe8dc7a1b717f5a0"
     },
     {
         "id": 2,
         "title": "Python Development with Django",
         "price": "7500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer."
+        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
+        "image": "https: //cdn.neow.in/news/images/uploaded/2018/11/1543490314_python-for-data-science_story.jpg"
     },
     {
         "id": 3,
         "title": "Dot Net Core with C#",
         "price": "8500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer."
+        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
+        "image": "https://www.pngitem.com/pimgs/m/527-5275726_c-programming-transparent-hd-png-download.png"
     },
     {
         "id": 4,
         "title": "Wordpress Developer with Them customise",
         "price": "1500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer."
+        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
+        "image": "https://dev.ellect.biz/images/detailed/2/HN3.png"
     },
     {
         "id": 5,
         "title": "PHP Development with laravel",
         "price": "4500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer."
+        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
+        "image": "https://www.seekpng.com/png/detail/258-2582284_php-framework-php-frameworks-logo.png"
     },
     {
         "id": 6,
         "title": "Advanched Video Animation",
         "price": "2500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer."
+        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
+        "image": "https://1.bp.blogspot.com/-B_xjracTAn8/YNrmBqe1NEI/AAAAAAAARlk/rqsy5frV_448CJak2jo8daIviU-1k3viwCLcBGAsYHQ/w1200-h630-p-k-no-nu/00-SVGator-homepage-ScreenShot.png"
     }
 ]
