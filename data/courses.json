@@ -3,8 +3,8 @@
         "id": 1,
         "title": "JS And React Development",
         "price": "10500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
-        "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
+        "description": "The React. JS Course Curriculum contains basic elements like introduction, JSX overview, Environmental setup, real-time applications, forms and UI, Component Lifecycle, Event Handling, and Styles along with advanced features such as router and navigations, Flux, Redux, and Unit testing methods.",
+        "image": "https://www.mindinventory.com/blog/wp-content/uploads/2021/05/react-libraries.png"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
     },
     {
         "id": 3,
-        "title": "Python Development with Django",
+        "title": "Python with Django",
         "price": "7500",
         "description": "Python is one of the widely used languages to build web applications. You can use it to perform several tasks; you can even do Web Development by using Python. You can use Python to build web apps in several ways, such as for server-side web apps, RESTful web APIs, etc.",
         "image": "https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/5984239968321536/image/download/5203686436372480"
