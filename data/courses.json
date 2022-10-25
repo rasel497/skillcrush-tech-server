@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "title": "JavaScript with React JS",
-        "price": "5500",
+        "title": "JS And React Development",
+        "price": "10500",
         "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
-        "image": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=740&t=st=1666690353~exp=1666690953~hmac=00415773f20e412f8710224aab198466318f62f7e505d67dfe8dc7a1b717f5a0"
+        "image": "https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
     },
     {
         "id": 2,
-        "title": "Python Development with Django",
-        "price": "7500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
-        "image": "https: //cdn.neow.in/news/images/uploaded/2018/11/1543490314_python-for-data-science_story.jpg"
+        "title": "MERN Stack Developer",
+        "price": "9500",
+        "description": "MERN stack denotes MongoDB, Express, React and Nodejs. Here, Nodejs and Express is used to build the backend, React is used to build the frontend and MongoDB is used as the database. MERN stack has become very popular as it is very easy and fast to build applications using the MERN stack.",
+        "image": "https://www.rlogical.com/wp-content/uploads/2020/12/MERN-Stack-considered-the-Best-for-Developing-Web-Apps.png"
     },
     {
         "id": 3,
-        "title": "Dot Net Core with C#",
-        "price": "8500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
-        "image": "https://www.pngitem.com/pimgs/m/527-5275726_c-programming-transparent-hd-png-download.png"
+        "title": "Python Development with Django",
+        "price": "7500",
+        "description": "Python is one of the widely used languages to build web applications. You can use it to perform several tasks; you can even do Web Development by using Python. You can use Python to build web apps in several ways, such as for server-side web apps, RESTful web APIs, etc.",
+        "image": "https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/5984239968321536/image/download/5203686436372480"
     },
     {
         "id": 4,
-        "title": "Wordpress Developer with Them customise",
-        "price": "1500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
-        "image": "https://dev.ellect.biz/images/detailed/2/HN3.png"
+        "title": "Dot Net Core with C#",
+        "price": "8500",
+        "description": "ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps. With ASP.NET Core, you can: Build web apps and services, Internet of Things (IoT) apps, and mobile backends. Use your favorite development tools on Windows, macOS, and Linux.",
+        "image": "https://www.pngitem.com/pimgs/m/527-5275726_c-programming-transparent-hd-png-download.png"
     },
     {
         "id": 5,
-        "title": "PHP Development with laravel",
-        "price": "4500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
-        "image": "https://www.seekpng.com/png/detail/258-2582284_php-framework-php-frameworks-logo.png"
+        "title": "Wordpress Developer with Them customise",
+        "price": "6500",
+        "description": "A WordPress developer is a type of web developer. They specialize in building websites with WordPress. They are also full-stack developers, meaning they can develop the front-end and back-end of a website. A WordPress developer may be hired to enhance the WordPress software or build a custom website for a client.",
+        "image": "https://dev.ellect.biz/images/detailed/2/HN3.png"
     },
     {
         "id": 6,
-        "title": "Advanched Video Animation",
-        "price": "2500",
-        "description": "This courses all over the basic to advaced. It's make to you a frontend web developer.",
-        "image": "https://1.bp.blogspot.com/-B_xjracTAn8/YNrmBqe1NEI/AAAAAAAARlk/rqsy5frV_448CJak2jo8daIviU-1k3viwCLcBGAsYHQ/w1200-h630-p-k-no-nu/00-SVGator-homepage-ScreenShot.png"
+        "title": "PHP Development with laravel",
+        "price": "4500",
+        "description": "PHP is known as a general-purpose scripting language that can be used to develop dynamic and interactive websites. It was among the first server-side languages that could be embedded into HTML, making it easier to add functionality to web pages without needing to call external files for data.",
+        "image": "https://www.seekpng.com/png/detail/258-2582284_php-framework-php-frameworks-logo.png"
     }
 ]
